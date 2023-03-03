@@ -32,6 +32,6 @@ We welcome contributions from the community! To contribute to Eduprime, please f
 
 ## Copyright and license
 
-©2023 Eduprime
+©2023 Eduprime LMS
 
 This project is licensed under the [MIT License](LICENSE).
